@@ -18,6 +18,8 @@ I'm - <b>Daniil</b> - a Python developer.
 
 ### Projects
 - FastApi/Websockets/RestAPI     [PeoPeoPle Messanger](https://github.com/DraksPlay/peopeople)
+- Simple RestAPI on FastAPI   [REST API](https://github.com/DraksPlay/REST_API)
+- DjangoRestFramework   [ServiceNotification](https://github.com/DraksPlay/ServiceNotification)
 <br/>  
 
 ### Contacts
