@@ -22,7 +22,7 @@ I'm - <b>Daniil</b> - a Python developer.
 - FastApi/Websockets/Vue.js     [PeoPeoPle Messanger](https://github.com/DraksPlay/peopeople)
 - Simple RestAPI on FastAPI   [REST API](https://github.com/DraksPlay/REST_API)
 - DjangoRestFramework   [ServiceNotification](https://github.com/DraksPlay/ServiceNotification)
-- PyQt Components   [PyQt Components]([https://github.com/DraksPlay/ServiceNotification](https://github.com/DraksPlay/pyqt_components))
+- PyQt Components   [PyQt Components](https://github.com/DraksPlay/pyqt_components)
 <br/>  
 
 ### Contacts
